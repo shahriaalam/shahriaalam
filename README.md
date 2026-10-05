@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi, I'm B. M. Shahria Alam</h1>
 
-<h3 align="center">Jr. AI Automation Engineer | Python · AI Agents· React.js· n8n</h3>
+<h3 align="center">Jr. AI Automation Engineer | Python · AI Agents · React.js · n8n</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Jr.+AI+Automation+Engineer;Jr.+AI+Engineer;Web+Developer" alt="Typing SVG" />
@@ -21,9 +21,9 @@
 
 - 🎓 CSE graduate from **East West University** (CGPA: 3.78/4.00 | Cum Laude)
 - 💼 Working as a **Jr. AI Automation Engineer** at **SM Technology**
-- 🤖 Skilled in **Agentic AI**, **AI Automation**, **Web Development**, **n8n, Zapier, Make.com, power automation**, and **Agentic AI**
-- 🧑‍🏫 Former **Undergraduate Teaching Assistant** at East West University
-- 📚 Published researcher with Deep Learning, Machine Learning and Computer Vision
+- 🤖 Skilled in **Agentic AI**, **AI Automation**, **Web Development**, **n8n, Zapier, Make.com, power automation**
+- 🧑‍🏫 Former **Undergraduate Teaching Assistant (UTA)** at East West University
+- 📚 Researcher with Deep Learning, Machine Learning, Image Processing, and Computer Vision.
 - 🌱 Deepening backend services with **Python**, **FastAPI**, and **SQL**
 - 🤝 Open to Agentic AI, Automation & Machine Learning opportunities
 
