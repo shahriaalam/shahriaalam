@@ -25,7 +25,20 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the snake animations
+      # Step 2: Prepare dist directory
+      - name: Prepare dist directory
+        run: mkdir -p dist
+
+      # Step 3: Generate the activity graph (run before Docker-based snake action)
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: dist/activity-graph.svg
+          options: "theme=tokyo-night&hide_border=true"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 4: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -37,16 +50,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Generate the activity graph
-      - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: ${{ github.repository_owner }}
-          output_path: dist/activity-graph.svg
-          options: "theme=tokyo-night&hide_border=true"
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      # Step 4: Deploy the generated files to the 'output' branch
+      # Step 5: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
