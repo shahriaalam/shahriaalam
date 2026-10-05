@@ -13,20 +13,19 @@
 <h3 align="center">Jr. AI Automation Engineer | Python · n8n · AI Agents</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Jr.+AI+Automation+Engineer;Python+%7C+n8n+%7C+AI+Agents;CSE+Graduate+from+East+West+University;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Jr.+AI+Automation+Engineer;Jr.+AI+Engineer;Web+Developer" alt="Typing SVG" />
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 - 🎓 CSE graduate from **East West University** (CGPA: 3.78/4.00 | Cum Laude)
 - 💼 Working as a **Jr. AI Automation Engineer** at **SM Technology**
-- 🤖 Skilled in **AI Automation**, **n8n**, **Zapier**, **Make.com**, and **Agentic AI**
+- 🤖 Skilled in **Agentic AI**, **AI Automation**, **Web Development**, **Make.com**, and **Agentic AI**
 - 🧑‍🏫 Former **Undergraduate Teaching Assistant** at East West University
-- 📚 Published researcher with **5 papers/datasets** in Deep Learning & Computer Vision
+- 📚 Published researcher with Deep Learning, Machine Learning and Computer Vision
 - 🌱 Deepening backend services with **Python**, **FastAPI**, and **SQL**
-- 🤝 Open to AI Automation & Machine Learning opportunities
+- 🤝 Open to Agentic AI, Automation & Machine Learning opportunities
 
 ---
 
