@@ -39,11 +39,12 @@ jobs:
 
       # Step 3: Generate the activity graph
       - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@master
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           output_path: dist/activity-graph.svg
           options: "theme=tokyo-night&hide_border=true"
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 4: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
